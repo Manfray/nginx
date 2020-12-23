@@ -1,3 +1,6 @@
+# 版本
+nginx 1.18.0
+
 # 常用命令
 start nginx : 启动nginx服务
 
